@@ -5,6 +5,11 @@ import {ShopData} from './components/Data/ShopData';
 
 const Products = () => {
   return (
+
+	// <div className='products-heading'>
+	// 	<h1>Our Products</h1>
+	// </div>
+
     <div className="container my-20">
 				<div className="md:grid md:grid-cols-4 sm:flex sm:flex-wrap justify-center gap-5">
 					{ShopData.map((product) => (

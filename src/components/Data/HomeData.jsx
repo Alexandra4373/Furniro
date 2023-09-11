@@ -31,7 +31,7 @@ export const HomeImagesData = [
     {
 		id: 3,
 		name: "lolito",
-		image: image2, // Replace with the actual image URL
+		image: image2, 
 		details:"Luxury big sofa",
         sellingprice: "Rp 7.000.000",
 		initialprice: "Rp 14.000.000",

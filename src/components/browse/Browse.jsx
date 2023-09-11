@@ -1,6 +1,6 @@
 import React from 'react'
 import  './browse.css'
-import HomeImagesData from "../components/HomeData";
+import HomeImagesData from "../components/data/HomeData";
 
 
 const Browse = () => {
